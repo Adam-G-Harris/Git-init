@@ -1,1 +1,2 @@
-# vscode-gi
+# Git Init
+- Ignore this repo -
